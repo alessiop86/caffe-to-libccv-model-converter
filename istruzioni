@@ -1,0 +1,1 @@
+in build ci stanno le strutture dati di caffe, definite coi protoocl buffer di google e compilate con protoc in un sorgente c++ chiamato .pb.cc

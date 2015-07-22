@@ -1,0 +1,3 @@
+this was an attempt to include caffe in the converter in order to reuse the caffe data structures (for example caffe::Blob<float>).
+
+Attempt failed.

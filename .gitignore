@@ -1,0 +1,7 @@
+prova
+bvlc_reference_caffenet/
+miodb.sqllite3
+miodb.sqllite3.*
+*.o
+*.out
+
